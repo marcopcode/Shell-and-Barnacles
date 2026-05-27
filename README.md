@@ -2,4 +2,4 @@
 
 **"If there's no gold in chest, scrape the barnacles"**
 
-code snippets - coming soon
+shell reference docs and tricks about defending against shellcodes - coming soon
